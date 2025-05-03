@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+Pillow
+gunicorn==20.0.4
+torch
+torchvision
+requests
+google-generativeai
